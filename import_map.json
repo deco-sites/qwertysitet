@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/qwertysitet/": "./",
+
     "deco-sites/bf-onserp/": "./",
 
     "$store/": "./",
